@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ciao! Sono Alessandro Memmola 👋
 
-<!--
-**alessandromemmola/alessandromemmola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppatore web, creatore di tool utili e progetti con un pizzico di ironia.
 
-Here are some ideas to get you started:
+### Progetti principali
+- **[AskingStars](https://askingstars.com)**  
+  Oroscopo interattivo e ironico: chiedi alle stelle o alla cartomante risposte divertenti e personalizzate  
+  → [Prova il widget embeddabile](https://askingstars.com/widget-demo.html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Reindexme](https://reindexme.com)**  
+  Tool per accelerare la re-indicizzazione di profili LinkedIn aggiornati  
+  → [Prova il widget embeddabile](https://reindexme.com/widget-demo.html)
+
+### Tech che uso di più
+HTML · CSS puro · JavaScript vanilla · Vercel · GitHub Pages · Python (script & tool) · Google APIs
+
+### Contatti & Social
+- 🌐 Sito personale: [alessandromemmola.com](https://alessandromemmola.com)
+- 📧 Email: [info@alessandromemmola.com](mailto:info@alessandromemmola.com)
+- 🐦 X: [@alexmemmola](https://x.com/alexmemmola)
+- 💼 LinkedIn: [Alessandro Memmola](https://www.linkedin.com/in/alessandro-memmola-233868372/)
+- 🐙 GitHub: [alessandromemmola](https://github.com/alessandromemmola)
+
+💡 Sempre aperto a collaborazioni, idee folli o feedback.  
+Se ti piacciono i miei progetti, un supporto su PayPal mi aiuta a crearne altri!  
+❤️ [Dona con PayPal](https://paypal.me/onlycreator)
+
+© 2026 Alessandro Memmola
