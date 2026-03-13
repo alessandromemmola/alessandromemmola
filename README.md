@@ -26,3 +26,5 @@ Se ti piacciono i miei progetti, un supporto su PayPal mi aiuta a crearne altri!
 ❤️ [Dona con PayPal](https://paypal.me/onlycreator)
 
 © 2026 Alessandro Memmola
+[![GitHub followers](https://img.shields.io/github/followers/alessandromemmola?style=social)](https://github.com/alessandromemmola)
+
