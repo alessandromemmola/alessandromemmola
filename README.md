@@ -17,7 +17,7 @@ HTML · CSS puro · JavaScript vanilla · Vercel · GitHub Pages · Python (scri
 ### Contatti & Social
 - 🌐 Sito personale: [alessandromemmola.com](https://alessandromemmola.com)
 - 📧 Email: [info@alessandromemmola.com](mailto:info@alessandromemmola.com)
-- 🐦 X: [@alexmemmola](https://x.com/alexmemmola)
+- 🐦 X: [@MemmolaLabs](https://x.com/MemmolaLabs)
 - 💼 LinkedIn: [Alessandro Memmola](https://www.linkedin.com/in/alessandro-memmola-233868372/)
 - 🐙 GitHub: [alessandromemmola](https://github.com/alessandromemmola)
 
