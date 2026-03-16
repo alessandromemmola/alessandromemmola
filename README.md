@@ -20,6 +20,7 @@ HTML · CSS puro · JavaScript vanilla · Vercel · GitHub Pages · Python (scri
 - 🐦 X: [@MemmolaLabs](https://x.com/MemmolaLabs)
 - 💼 LinkedIn: [Alessandro Memmola](https://www.linkedin.com/in/alessandro-memmola-233868372/)
 - 🐙 GitHub: [alessandromemmola](https://github.com/alessandromemmola)
+-    Producthunt: [alessandromemmola](https://www.producthunt.com/@alessandromemmola)
 
 💡 Sempre aperto a collaborazioni, idee folli o feedback.  
 Se ti piacciono i miei progetti, un supporto su PayPal mi aiuta a crearne altri!  
