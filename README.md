@@ -11,6 +11,14 @@ Sviluppatore web, creatore di tool utili e progetti con un pizzico di ironia.
   Tool per accelerare la re-indicizzazione di profili LinkedIn aggiornati  
   → [Prova il widget embeddabile](https://reindexme.com/widget-demo.html)
 
+  - **[ImmoBit](https://play.google.com/store/apps/details?id=com.memmolalabs.immobit)**  
+  ImmoBit è l’app per la valutazione di immobili in modo rapido, professionale e intelligente.
+  Che tu stia cercando casa, verificando un appartamento prima dell’acquisto o lavorando come agente immobiliare, ImmoBit ti aiuta a effettuare un controllo completo dell’immobile con checklist guidate e punteggio finale.
+
+- **[AutoBit](https://play.google.com/store/apps/details?id=com.memmolalabs.autobit)**  
+  AutoBit è l’app per il controllo e la valutazione di auto, moto e veicoli in modo rapido e professionale.
+  Che tu stia acquistando un’auto o verificando un veicolo prima della vendita, AutoBit ti aiuta a effettuare un controllo auto completo dello stato del mezzo, con checklist guidate e punteggio finale.
+
 ### Tech che uso di più
 HTML · CSS puro · JavaScript vanilla · Vercel · GitHub Pages · Python (script & tool) · Google APIs
 
