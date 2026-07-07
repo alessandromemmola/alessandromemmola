@@ -18,7 +18,7 @@ SlangBit utilizza modelli AI locali, funziona completamente offline e non invia 
 
 → [Scopri SlangBit](https://slangbit.com)
 
-→ [Available on Microsoft Store](https://apps.microsoft.com/detail/9mvktr6xwl27?hl=it-IT&gl=IT)
+→ [Disponibile su Microsoft Store](https://apps.microsoft.com/detail/9mvktr6xwl27?hl=it-IT&gl=IT)
 
 ---
 
