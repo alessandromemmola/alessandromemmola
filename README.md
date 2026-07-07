@@ -18,6 +18,8 @@ SlangBit utilizza modelli AI locali, funziona completamente offline e non invia 
 
 → [Scopri SlangBit](https://slangbit.com)
 
+→ [Available on Microsoft Store](https://apps.microsoft.com/detail/9mvktr6xwl27?hl=it-IT&gl=IT)
+
 ---
 
 ### 🏠 ImmoBit
@@ -25,6 +27,8 @@ SlangBit utilizza modelli AI locali, funziona completamente offline e non invia 
 App Android per la valutazione guidata degli immobili.
 
 Permette di analizzare un immobile attraverso checklist, punteggi, fotografie, note, archivio personale, confronti ed esportazione delle valutazioni.
+
+→ [Scopri ImmoBit](https://memmolalabs.com/immobit)
 
 → [Disponibile su Google Play](https://play.google.com/store/apps/details?id=com.memmolalabs.immobit)
 
@@ -36,6 +40,8 @@ App Android per il controllo e la valutazione di auto, moto e veicoli.
 
 Aiuta ad analizzare lo stato di un veicolo attraverso checklist guidate, punteggi, fotografie, note e strumenti di confronto.
 
+→ [Scopri AutoBit](https://memmolalabs.com/autobit)
+
 → [Disponibile su Google Play](https://play.google.com/store/apps/details?id=com.memmolalabs.autobit)
 
 ---
@@ -46,6 +52,8 @@ Gioco arcade basato su velocità, precisione e riflessi.
 
 Quattro modalità di gioco mettono alla prova concentrazione, rapidità e capacità di reazione, dalle partite veloci alle sfide più intense.
 
+→ [Scopri DotTap](https://memmolalabs.com/dottap)
+
 → [Disponibile su Google Play](https://play.google.com/store/apps/details?id=com.memmolalabs.dottapgame)
 
 ---
@@ -55,6 +63,8 @@ Quattro modalità di gioco mettono alla prova concentrazione, rapidità e capaci
 Una tela personale dei ricordi progettata per collegare profumi, esperienze, fotografie e momenti significativi.
 
 Ogni ricordo diventa un nodo all'interno di una mappa visiva personale, permettendo di creare connessioni tra esperienze e costruire nel tempo un archivio dei propri ricordi.
+
+→ [Scopri ScentWeave](https://memmolalabs.com/scentweave)
 
 → [Disponibile su Google Play](https://play.google.com/store/apps/details?id=com.memmolalabs.scentweave)
 
